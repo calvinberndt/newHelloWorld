@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5C9BC1C0-81DD-45D1-BF51-510399156E18}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="prjnewHelloWorld/MainPage.xaml">
+    <Files>
+      <File FileName="prjnewHelloWorld/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="prjnewHelloWorld/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.prjnewHelloWorld FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.prjnewHelloWorld.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.prjnewHelloWorld.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+</Properties>
