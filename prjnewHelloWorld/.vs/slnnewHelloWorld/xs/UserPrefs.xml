@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{5C9BC1C0-81DD-45D1-BF51-510399156E18}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="prjnewHelloWorld/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Desktop/HelloWorldGitProject">
     <Files>
-      <File FileName="prjnewHelloWorld/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="prjnewHelloWorld/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="prjnewHelloWorld/MainPage.xaml" Line="9" Column="15" />
+      <File FileName="prjnewHelloWorld/App.xaml" Line="5" Column="15" />
+      <File FileName="../../../Desktop/HelloWorldGitProject" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
